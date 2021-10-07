@@ -33,7 +33,7 @@
 }
 .main-menu-area {
   background: #3a3d42 none repeat scroll 0 0;
-  height: 55px;
+  height: 56px;
   position: relative;
 }
 /* .menuarea{}
@@ -474,7 +474,7 @@ table.delivery-table tr td {
 	padding-right: 4px;
 }
 .logo {
-	padding-top: 15px;
+	padding-top: 20px;
 	float:none;
 	text-align:center;
 }
